@@ -1,15 +1,17 @@
-Hi 👋 My name is Vlad
-=====================
+Hi there 👋, I'm Vlad!
+=======================
 
-Senior FullStack Engineer
--------------------------
+**Senior Full-Stack Engineer**
 
-Over the past five years, I've been deeply involved in full-stack web development across a variety of industries—including insurance, system monitoring, delivery services, and others. I enjoy leveraging modern JavaScript frameworks like React, Next.js, Node.js, and Bun to craft efficient and innovative solutions tailored to each project's unique needs.
+With over 7 years of professional experience as a full-stack developer, I've crafted web solutions for diverse industries including insurance, system monitoring, and delivery services. My expertise revolves around modern JavaScript technologies, primarily React, Next.js, Node.js, TypeScript, and Bun, allowing me to build scalable, performant, and user-friendly applications tailored to unique business challenges.
 
-* 🌍  I'm based in Slovakia
-* ✉️  You can contact me at [vladimirgal1210@gmail.com](mailto:vladimirgal1210@gmail.com)
-* 🤝  I'm open to collaborating on interesting new projects
-* ⚡  If you seek advice or just want to chat, don't hesitate to contact me
+I'm passionate about clean code, intuitive design, and innovative approaches to solving complex problems. When I'm not coding, you can usually find me exploring fantasy worlds through gaming, spending quality time with my family, or sharing my knowledge with fellow developers.
+
+* 🌍 Located in Slovakia  
+* 📧 Let's connect: [vladimirgal1210@gmail.com](mailto:vladimirgal1210@gmail.com)  
+* 🤝 Open to collaboration on exciting and challenging projects  
+* 💬 Always happy to chat tech, mentor, or offer advice
+
 
 ### Skills
 
