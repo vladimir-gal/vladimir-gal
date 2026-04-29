@@ -1,12 +1,8 @@
 # Vlado Gál
  
-Slovakia. Software engineer.
+Slovakia. Software engineer and entrepreneur.
  
 Building [PixelNode](https://pixelnode.digital) on the side. Web, software, design.
- 
-### Stack
- 
-TypeScript, Next.js, NestJS, Postgres, Prisma, Tailwind, Docker, Cloudflare.
  
 ### Reach
  
